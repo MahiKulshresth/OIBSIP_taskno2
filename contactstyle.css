@@ -1,0 +1,9 @@
+body {
+    background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+    margin: 0; 
+    color: #fff; 
+}
+
+h3{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

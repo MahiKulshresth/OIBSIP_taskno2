@@ -1,0 +1,18 @@
+body {
+    background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+    margin: 0; 
+    color: #fff; 
+}
+.pic{
+    width: 500px;
+    height: 250px;
+    margin-left: 55% ;
+    margin-top: -170px;
+}
+.pics{
+ width:200px;
+ height:300px;
+ margin-left: 55%;
+ margin-top:-320px;
+ margin-right: 50px;
+}
